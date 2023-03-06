@@ -27,7 +27,7 @@ p {
     padding: 8px;
 }
 
-.starcourt, .arcade{
+.enzos, .scoops{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
