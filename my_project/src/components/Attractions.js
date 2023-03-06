@@ -7,7 +7,7 @@ function Attractions() {
     <div className='main'>
       <div className='header'>
         <h1>Attractions</h1>
-        <h3>"Come to America's coziest small town!"</h3>
+        <h3>Come to America's coziest small town!</h3>
         <div className="starcourt">
            <img src={starcourt} alt="starcourt" />
            <p>
